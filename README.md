@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhiwalia33
-- 👀 I’m interested in Data analyst role
-- 🌱 I’m currently learning tableau,SQL
+- 👀 I’m interested in Data analyst/Data Science role
+- 🌱 I’m currently learning SQL,Python,ML,Power BI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me here is my linkdin profile: https://www.linkedin.com/in/abhinav-walia-82851593/
 
