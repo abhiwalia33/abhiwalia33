@@ -6,7 +6,7 @@
 
 💼 I’m open to collaborating on exciting data-driven projects where I can apply my skills and contribute to meaningful insights.
 
-📫 Let's connect and explore opportunities! Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/abhinav-walia-82851593/) to discuss potential collaborations or share insights into the fascinating world of data.
+📫 Let's connect and explore opportunities! Feel free to reach me on [LinkedIn](www.linkedin.com/in/abhinav-walia-82851593/) to discuss potential collaborations or share insights into the fascinating world of data.
 
 Looking forward to connecting with like-minded professionals and exploring new opportunities together! 🚀
 
